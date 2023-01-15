@@ -1,8 +1,7 @@
 {
-    "name": "leafo/lessphp",
+    "name": "timmehh89/lessphp",
     "type": "library",
     "description": "lessphp is a compiler for LESS written in PHP.",
-    "homepage": "http://leafo.net/lessphp/",
     "license": [
         "MIT",
         "GPL-3.0"
