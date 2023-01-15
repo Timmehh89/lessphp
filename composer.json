@@ -7,13 +7,6 @@
         "MIT",
         "GPL-3.0"
     ],
-    "authors": [
-        {
-            "name": "Leaf Corcoran",
-            "email": "leafot@gmail.com",
-            "homepage": "http://leafo.net"
-        }
-    ],
     "bin": [
         "plessc",
         "lessify"
